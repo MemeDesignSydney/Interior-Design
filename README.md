@@ -2,7 +2,7 @@
 
 Welcome to **Meme Studio**, a distinguished design firm with locations in **Sydney**. We specialize in home interior design.
 
-!(https://github.com/MemeDesignSydney/Interior-Design/blob/main/Meme%20Office.JPG)
+(https://github.com/MemeDesignSydney/Interior-Design/blob/287ae4c9d52a43575010480e83c6a6f2a54c7c41/0ceb4edae1bee1196940b3dfc328e505.JPG)
 
 With over **15 years of experience** in high-end custom home design, Meme Studio delivers innovative, tailored design services to meet the unique needs of every client.
 
