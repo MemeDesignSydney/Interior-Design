@@ -26,7 +26,7 @@ Meme Studio has cultivated strategic partnerships with over **100 renowned furni
 - **Innovative Design**: We bring creativity and functionality together to create spaces that are both beautiful and practical.
 
 ## Contact Us Today
-[Contact](https://openai.com)
+[Contact](Contac Page.html)
 
 Explore our work, and let us help you bring your design dreams to life!
 
