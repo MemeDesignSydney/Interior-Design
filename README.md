@@ -26,7 +26,7 @@ Meme Studio has cultivated strategic partnerships with over **100 renowned furni
 - **Innovative Design**: We bring creativity and functionality together to create spaces that are both beautiful and practical.
 
 ## Contact Us Today
-[Contact](Contac Page.html)
+[Contact](https://github.com/MemeDesignSydney/Interior-Design/blob/4f8c558c640c5ca7c59c9a99f173f612bc7f51d5/Contac%20Page.html)
 
 Explore our work, and let us help you bring your design dreams to life!
 
