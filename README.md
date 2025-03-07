@@ -1,13 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 <!DOCTYPE html>\
 <html lang="en">\
 <head>\
     <meta charset="UTF-8">\
@@ -38,14 +28,15 @@
 </head>\
 <body>\
     <header>\
-        <h1>Welcome to My Website</h1>\
-    </header>\
-    <section>\
-        <h2>About Me</h2>\
-        <p>This is a simple website built for free! You can customize the content, add images, and more.</p>\
-    </section>\
+        <h1>Welcome to Meme Studio Sydney</h1>\
+    </header>Interior Design Project 
+    <section>Interior Design Project 
+    </section>Interior Design Project 1        
+        <h2>About Meme Studio</h2>\
+        <p>Meme Studio, based in Sydney, is a distinguished design firm specializing in interior design and bespoke home solutions. With over 15 years of experience in high-end custom home design. Meme Studio offers tailored design services that address the unique requirements of each client. We have cultivated strategic partnerships with over 100 renowned furniture brands, ensuring access to premium materials and exceptional craftsmanship. Whether undertaking a single room transformation or designing an entirely custom home, Meme Studio is committed to delivering innovative, sophisticated, and meticulously executed design solutions.</p>\
+    </section>
     <footer>\
-        <p>&copy; 2025 My Free Website</p>\
+        <p>&copy; Meme Studio</p>\
     </footer>\
 </body>\
 </html>\
